@@ -1,11 +1,9 @@
 ## Welcome to Zaps Snackshack
 
 # Drinks
-## Snacks
-### Candy
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Canned Soda $2
+Bottled Soda $3
+Bottled Water $1
+Juice $1
+# Snacks
+# Candy 
