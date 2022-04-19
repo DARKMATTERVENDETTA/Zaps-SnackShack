@@ -24,3 +24,6 @@ Kisses $0.50
 Musketeers $0.50
 Chocolates $0.50
 Milky Way $0.50
+### Workers
+owner Fabian
+co-owner Marcus
