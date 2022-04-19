@@ -1,16 +1,16 @@
 ## Welcome to Zaps Snackshack
 
 # Drinks
-Canned Soda $2 Sorry no more in stock:(
+Canned Soda $2 Sorry no more in stock:( 
 Bottled Soda $3 Sorry no more in stock:(
 Bottled Water $1 Sorry no more in stock:(
 Juice $1 Sorry no more in stock:(
 # Snacks
 Ramen $2
-Cookies $1
+Cookies $1 Sorry no more in stock:(
 Seaweed $1
 Granola bar has peanuts $1
-Small Chip bag $1
+Small Chip bag $1 Sorry no more in stock:(
 # Candy
 Snickers $0.25
 Now and laters $0.25
