@@ -2,9 +2,8 @@
 
 # Drinks
 Small canned soda $1 Sorry no more in stock:(
-Canned Soda $2 Sorry no more in stock:(
+Canned Soda $2
 Bottled Soda $3 Sorry no more in stock:(
-
 Bottled Water $1
 Juice $1 Sorry no more in stock:(
 Strawberry lemonaide $ Sorry no more in stock:(
@@ -14,6 +13,7 @@ Cookies $1 Sorry no more in stock:(
 Seaweed $1
 Granola bar has peanuts $1
 Small Chip bag $1.50 Sorry no more in stock:(
+Crackers $1.50
 # Candy
 Snickers $0.25
 Now and laters $0.25
@@ -33,3 +33,6 @@ Mystery egg $.50
 ### Workers
 owner Fabian
 co-owner Marcus
+## Membership
+Premium $0.50 of any snacks and drinks $5
+Premium+ $1 dollar any snacks and drinks $5 per week
