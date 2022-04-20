@@ -2,7 +2,7 @@
 
 # Drinks
 Small canned soda $1
-Canned Soda $2 Sorry no more in stock:( 
+Canned Soda $2
 Bottled Soda $3 Sorry no more in stock:(
 
 Bottled Water $1
@@ -27,6 +27,8 @@ Kisses $0.50
 Musketeers $0.50
 Chocolates $0.50
 Milky Way $0.50
+Warheads $0.75
+Gum $0.75
 ### Workers
 owner Fabian
 co-owner Marcus
