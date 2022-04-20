@@ -13,6 +13,7 @@
 - Seaweed $1
 - Granola bar has peanuts $1
 - Small Chip bag $1.50 Sorry no more in stock:(
+- Chip bag $2.50
 - Crackers $1.50
 # Candy
 - Snickers $0.25
