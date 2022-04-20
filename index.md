@@ -1,13 +1,13 @@
 ## Welcome to Zaps Snackshack
 
 # Drinks
-Small canned soda $1
+Small canned soda $1 Sorry no more in stock:(
 Canned Soda $2
 Bottled Soda $3 Sorry no more in stock:(
 
 Bottled Water $1
 Juice $1 Sorry no more in stock:(
-Strawberry lemonaide $1
+Strawberry lemonaide $ Sorry no more in stock:(
 # Snacks
 Ramen $2
 Cookies $1 Sorry no more in stock:(
