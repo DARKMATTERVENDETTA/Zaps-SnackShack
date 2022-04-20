@@ -29,6 +29,7 @@ Chocolates $0.50
 Milky Way $0.50
 Warheads $0.75
 Gum $0.75
+Mystery egg $.50
 ### Workers
 owner Fabian
 co-owner Marcus
