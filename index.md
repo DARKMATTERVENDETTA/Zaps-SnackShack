@@ -36,5 +36,6 @@ co-owner Marcus
 ## Membership
 Premium $0.50 off of any snacks and drinks $5
 Premium+ $1 dollar off of any snacks and drinks $5 per week
-Any Memberships allow you to order ordering will allow you to order stuff that is out of stock and can get it when it comes back in stock.
-Contact 254-493-3228 or 254-813-8092 or if you don't have a phone number email gamerzap234@gmail.com to get a membership
+Any Memberships allow you to preorder, preordering will allow you to order stuff that is out of stock and can get it when it comes back in stock.
+# Contact Info
+Contact 254-493-3228 or 254-813-8092 or if you don't have a phone number email gamerzap234@gmail.com to get a membership or to Pre order.
