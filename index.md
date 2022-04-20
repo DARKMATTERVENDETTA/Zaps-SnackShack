@@ -34,5 +34,6 @@ Mystery egg $.50
 owner Fabian
 co-owner Marcus
 ## Membership
-Premium $0.50 of any snacks and drinks $5
-Premium+ $1 dollar any snacks and drinks $5 per week
+Premium $0.50 off of any snacks and drinks $5
+Premium+ $1 dollar off of any snacks and drinks $5 per week
+Any Memberships allow you to order ordering will allow you to order stuff that is out of stock and can get it when it comes back in stock.
