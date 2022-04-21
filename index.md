@@ -9,11 +9,11 @@
 - Strawberry lemonaide $ Sorry no more in stock:(
 # Snacks
 - Ramen $2
-- Cookies $1 Sorry no more in stock:(
+- Cookies $1.50
 - Seaweed $1
 - Granola bar has peanuts $1
-- Small Chip bag $1.50 Sorry no more in stock:(
-- Chip bag $2.50
+- Small Chip bag $1.50 
+- Chip bag $2.50 Sorry no more in stock:(
 - Crackers $1.50
 # Candy
 - Snickers $0.25
@@ -30,7 +30,7 @@
 - Milky Way $0.50
 - Warheads $0.75 Sorry no more in stock:(
 - Gum $0.75
-- Mystery egg $.50
+- Mystery egg $.50 Sorry no more in stock:(
 ### Workers
 - owner Fabian
 - co-owner Marcus
@@ -41,3 +41,7 @@
 # Contact Info
 - Contact 254-493-3228 or if you don't have a phone number email gamerzap234@gmail.com to get a membership or to Pre order.
 - 254-813-8092 is for the co-owner
+# Sales
+- 0.50 cents of of every snack and drink
+## Updates
+- Added Updates,sales,contact info,Membership,workers and more snacks,candy and drinks
