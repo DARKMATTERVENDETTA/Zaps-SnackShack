@@ -32,13 +32,20 @@
 - Gum $0.75 Sorry no more in stock:(
 - Mystery egg $.50 Sorry no more in stock:(
  # Movies
--Good boys $20
-Encanto $10
-Spiderman $15
-
+- Good boys $20
+- Encanto $10
+- Spiderman $15
+- The grinch Cartoon $10
+- Elf $15
+- Inside Out $10
+- Avengers Infinity war $15
+- Avengers Endgame $16
+[https://forms.gle/V6y1drEbNEAAAARD8]
 ### Workers
-- owner Fabian
-- co-owner Marcus
+- owner Fabian.G
+- co-owner Marcus.H
+- Assistant Johnny.M
+- Seller Tanner.j
 ## Membership
 - Bronze tier Free regular price off of every but can use sales 
 - Gold tier $0.50 off of any snacks and drinks $5
