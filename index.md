@@ -46,6 +46,7 @@ Spiderman $15
 - Any Memberships allow you to preorder, preordering will allow you to order stuff that is out of stock and can get it when it comes back in stock.
 # Contact Info
 - Contact 254-493-3228 or if you don't have a phone number email gamerzap234@gmail.com to get a membership or to Pre order.
+- Snap Gamerzap
 - 254-813-8092 is for the co-owner
 # Sales
 - 0.50 cents of of every snack and drink
