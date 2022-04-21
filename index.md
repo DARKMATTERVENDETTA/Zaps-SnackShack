@@ -31,6 +31,11 @@
 - Warheads $0.75 Sorry no more in stock:(
 - Gum $0.75
 - Mystery egg $.50 Sorry no more in stock:(
+ # Movies
+-Good boys $20
+Encanto $10
+Spiderman $15
+
 ### Workers
 - owner Fabian
 - co-owner Marcus
@@ -44,4 +49,10 @@
 # Sales
 - 0.50 cents of of every snack and drink
 ## Updates
-- Added Updates,sales,contact info,Membership,workers and more snacks,candy and drinks
+- Added Updates
+- sales
+- contact info
+- Membership
+- workers
+- more snacks,candy and drinks
+- Added movies
