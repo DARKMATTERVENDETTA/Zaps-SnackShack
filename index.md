@@ -40,12 +40,19 @@
 - Inside Out $10
 - Avengers Infinity war $15
 - Avengers Endgame $16
+- Disney pack $15
+- The avengers $5
+- turning red $2
+- Yes day $1
+- Sing $4
  - [https://forms.gle/V6y1drEbNEAAAARD8]
 ### Workers
 - owner Fabian.G
-- co-owner Marcus.H
-- Assistant Johnny.M
-- Seller Tanner.j
+- assistant seller Marcus.H $2
+- Seller Tanner.j $1
+- seller Johnny.M $1
+- Seller Dominik.C $1
+- Seller JADRIAN.J-M $1
 ## Membership
 - Bronze tier Free regular price off of every but can use sales 
 - Gold tier $0.50 off of any snacks and drinks $5
@@ -53,10 +60,10 @@
 - Any Memberships allow you to preorder, preordering will allow you to order stuff that is out of stock and can get it when it comes back in stock.
 # Contact Info
 - Contact 254-493-3228 or if you don't have a phone number email gamerzap234@gmail.com to get a membership or to Pre order.
-- Snap Gamerzap
+- Snap Gamerzap234
 - 254-813-8092 is for the co-owner
 # Sales
-- 0.50 cents of of every snack and drink
+- There is no sales at this time🥱
 ## Updates
 - Added Updates
 - sales
