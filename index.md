@@ -59,7 +59,6 @@ https://forms.gle/V6y1drEbNEAAAARD8
 - Gold tier $0.50 off of any snacks and drinks $5
 - Diamond tier $1 dollar off of any snacks and drinks $5 per month
 - Any Memberships allow you to preorder, preordering will allow you to order stuff that is out of stock and can get it when it comes back in stock.
-# Contact Info
 - Contact 254-493-3228 or if you don't have a phone number email gamerzap234@gmail.com to get a membership or to Pre order.
 - Snap Gamerzap234
 - 254-813-8092 is for the co-owner
