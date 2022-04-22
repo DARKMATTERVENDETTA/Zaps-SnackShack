@@ -46,7 +46,7 @@
 - turning red $2
 - Yes day $1
 - Sing $4
- - [https://forms.gle/V6y1drEbNEAAAARD8]
+https://forms.gle/V6y1drEbNEAAAARD8
 ### Workers
 - owner Fabian.G
 - assistant seller Marcus.H $2
