@@ -31,7 +31,7 @@
 - Warheads $0.75 Sorry no more in stock:(
 - Gum $0.75 Sorry no more in stock:(
 - Mystery egg $.50 Sorry no more in stock:(
- # Movies
+# Movies
 - Good boys $20
 - Encanto $10
 - Spiderman $15
