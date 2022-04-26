@@ -33,15 +33,15 @@
 - Gum $0.75 Sorry no more in stock:(
 - Mystery egg $.50 Sorry no more in stock:(
 # Movies
-- Good boys $20
-- Encanto $10
-- Spiderman $15
-- The grinch Cartoon $10
-- Elf $15
+- Good boys $10
+- Encanto $5
+- Spiderman $10
+- The grinch cartoon $5
+- Elf $10
 - Inside Out $10
-- Avengers Infinity war $15
-- Avengers Endgame $16
-- Disney pack $15
+- Avengers Infinity war $10
+- Avengers Endgame $10
+- Disney pack $10
 - The avengers $5
 - turning red $2
 - Yes day $1
@@ -70,7 +70,7 @@ https://forms.gle/V6y1drEbNEAAAARD8
 - contact info
 - Membership
 - workers
-- more snacks,candy and drinks
+q- more snacks,candy and drinks
 - Added movies
 ### Members
 - Emiliano
