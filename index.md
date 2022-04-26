@@ -72,5 +72,3 @@ https://forms.gle/V6y1drEbNEAAAARD8
 - workers
 q- more snacks,candy and drinks
 - Added movies
-### Members
-- Emiliano
