@@ -70,5 +70,5 @@ https://forms.gle/V6y1drEbNEAAAARD8
 - contact info
 - Membership
 - workers
-q- more snacks,candy and drinks
+- more snacks,candy and drinks
 - Added movies
